@@ -2,7 +2,7 @@ import { MdAudiotrack } from "react-icons/md";
 
 const Header = () => {
     return (
-        <header className="min-h-[10vh] bg-body text-primary shadow-md shadow-shadow flex items-center ">
+        <header className="min-h-[10vh] bg-body text-primary shadow-sm shadow-shadow flex items-center ">
             <div className="w-3/4 mx-auto flex items-center">
                 <a className="text-2xl font-nunito" href="/">
                     etQuran
